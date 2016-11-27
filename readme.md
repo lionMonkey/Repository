@@ -14,3 +14,4 @@ Creating a new branch is quick And simple.
 =======
 creating a new branch is quick And simple
 >>>>>>> feature1
+this is fourth
